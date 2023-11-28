@@ -1,6 +1,8 @@
 # Project_Rpl
 
-login page ini saya menggunakan beberapa bahasa tetapi bahasa inti yang saya gunakan adalah PHP berikut beberapa outputnya :
+## Buatlah program, buatlah form pada bahasa pemrograman, ketiklah source codenya atas project yang selama ini sudah dikerjakan!  Bahasa pemrograman bebas, database bebas. Mahasiswa boleh menggunakan referensi lain, referensi bisa berupa buku, paper untuk belajar pemrograman!
+
+## login page ini saya menggunakan beberapa bahasa tetapi bahasa inti yang saya gunakan adalah PHP berikut beberapa outputnya :
 
 # Tampilan Login
 
